@@ -1,0 +1,101 @@
+<eclipse>
+<message source="eclrun" date="" time="0">
+Executing ECLIPSE on pc system with x86_64 architecture named PGE-F7TNGK2-PZ
+</message>
+<message source="eclrun" date="" time="0">
+Process ID is 13584
+</message>
+<message source="eclrun" date="" time="0">
+Starting HDF conversion ...
+</message>
+<message source="eclrun" date="" time="0">
+HDF conversion completed successfully.
+</message>
+<message date="1/6/2018" time="0.00000000000000">
+ CHECKING FOR LICENSES                                                   
+</message>
+<message date="1/6/2018" time="0.00000000000000">
+ CHECKING FOR LICENSES                                                   
+</message>
+<message date="1/6/2018" time="0.00000000000000">
+ THE MEMORY REQUIRED TO PROCESS THE GRID SECTION IS                      
+       7845 KBYTES                                                       
+</message>
+<message date="1/6/2018" time="0.00000000000000">
+ NEITHER OLDTRAN,OLDTRANR NOR NEWTRAN SPECIFIED                          
+ BLOCK CENTRE TRANSMISSIBILITIES TO BE CALCULATED                        
+ USING  OLDTRAN                                                          
+</message>
+<comment date="1/6/2018" time="0.00000000000000">
+ NO NON-NEIGHBOUR CONNECTIONS FOUND                                      
+</comment>
+<message date="1/6/2018" time="0.00000000000000">
+ NUMBER OF ACTIVE CELLS IS 16384                                         
+</message>
+<message date="1/6/2018" time="0.00000000000000">
+ THE MEMORY REQUIRED TO PROCESS THE SOLUTION SECTION IS                  
+      16167 KBYTES                                                       
+</message>
+<message date="1/6/2018" time="0.00000000000000">
+    62279 CHARACTER VARIABLES USED                                       
+</message>
+<warning date="1/6/2018" time="0.00000000000000">
+ THE BOTTOM HOLE PRESSURE LIMIT FOR WELL P1                              
+ HAS BEEN DEFAULTED.  THE DEFAULT VALUE IS                               
+     14.7   PSIA                                                         
+</warning>
+<message date="1/6/2018" time="0.00000000000000">
+ OPENING WELL P1       AT TIME      0.00   DAYS                          
+ CONTROLLED BY LIQUID RATE                                               
+</message>
+<warning date="1/6/2018" time="0.00000000000000">
+ THE BOTTOM HOLE PRESSURE LIMIT FOR WELL I9                              
+ HAS BEEN DEFAULTED. THE DEFAULT VALUE IS  100000.   PSIA                
+</warning>
+<message date="1/6/2018" time="0.00000000000000">
+ OPENING WELL I9       AT TIME      0.00   DAYS                          
+ CONTROLLED BY WATER RATE                                                
+</message>
+<message date="1/6/2018" time="0.00000000000000">
+ RESTART FILE WRITTEN   REPORT     0                                     
+</message>
+<problem date="1/6/2018" time="0.00000000000000">
+ NON-LINEAR EQUATION CONVERGENCE FAILURE (INIT)                          
+ ITERATION LIMIT REACHED - TIME STEP CHOPPED FROM   1.00 DAYS            
+</problem>
+<problem date="1/6/2018" time="0.00000000000000">
+ NON-LINEAR EQUATION CONVERGENCE FAILURE                                 
+ ITERATION LIMIT REACHED - BUT TIME STEP                                 
+ ACCEPTED BECAUSE IT IS TOO SMALL TO CHOP.                               
+ USE KEYWORD MESSOPTS TO MODIFY THE SEVERITY CODE FOR                    
+ MESSAGES REPORTING TIME STEPS FORCED TO BE ACCEPTED.                    
+</problem>
+<message date="1/6/2018" time="0.00000000000000">
+ ******************************************                              
+ * WELL P1       HAS CHANGED TO           *                              
+ * CONTROL BY BOTTOM HOLE PRESSURE        *                              
+ * FROM TIME      0.00   DAYS  .          *                              
+ ******************************************                              
+</message>
+<message date="1/6/2018" time="0.00000000000000">
+ ******************************************                              
+ * WELL I9       HAS CHANGED TO           *                              
+ * CONTROL BY BOTTOM HOLE PRESSURE        *                              
+ * FROM TIME      0.00   DAYS  .          *                              
+ ******************************************                              
+</message>
+<problem date="1/6/2018" time="0.10000000149012">
+ NON-LINEAR EQUATION CONVERGENCE FAILURE                                 
+ ITERATION LIMIT REACHED - BUT TIME STEP                                 
+ ACCEPTED BECAUSE IT IS TOO SMALL TO CHOP.                               
+ USE KEYWORD MESSOPTS TO MODIFY THE SEVERITY CODE FOR                    
+ MESSAGES REPORTING TIME STEPS FORCED TO BE ACCEPTED.                    
+</problem>
+<problem date="1/6/2018" time="0.22500000335276">
+ NON-LINEAR EQUATION CONVERGENCE FAILURE (DIFF)                          
+ ITERATION LIMIT REACHED - TIME STEP CHOPPED FROM   4.69 HOURS           
+</problem>
+<message date="9/8/2020" time="800.00000000000000">
+ RESTART FILE WRITTEN   REPORT     1                                     
+</message>
+</eclipse>

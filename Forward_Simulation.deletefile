@@ -1,0 +1,100 @@
+<eclipse>
+<message source="eclrun" date="" time="0">
+Executing ECLIPSE on pc system with x86_64 architecture named PGE-F7TNGK2-PZ
+</message>
+<message source="eclrun" date="" time="0">
+Process ID is 1140
+</message>
+<message source="eclrun" date="" time="0">
+Starting HDF conversion ...
+</message>
+<message source="eclrun" date="" time="0">
+HDF conversion completed successfully.
+</message>
+<message source="eclrun" date="" time="0">
+Simulation has finished.
+</message>
+<message source="eclrun" date="" time="0">
+Executing ECLIPSE on pc system with x86_64 architecture named PGE-F7TNGK2-PZ
+</message>
+<message source="eclrun" date="" time="0">
+Process ID is 1140
+</message>
+<message source="eclrun" date="" time="0">
+Starting HDF conversion ...
+</message>
+<message source="eclrun" date="" time="0">
+HDF conversion completed successfully.
+</message>
+<message date="1/6/2018" time="0.00000000000000">
+ CHECKING FOR LICENSES                                                   
+</message>
+<message date="1/6/2018" time="0.00000000000000">
+ CHECKING FOR LICENSES                                                   
+</message>
+<message date="1/6/2018" time="0.00000000000000">
+ THE MEMORY REQUIRED TO PROCESS THE GRID SECTION IS                      
+       7845 KBYTES                                                       
+</message>
+<error date="1/6/2018" time="0.00000000000000">
+ TOO MUCH DATA FOR BOX (  1-128,  1-128,  1-  1)                         
+ OF KEYWORD PERMX    - SURPLUS IGNORED                                   
+</error>
+<warning date="1/6/2018" time="0.00000000000000">
+ SPURIOUS DATA BEFORE COPY     KEYWORD                                   
+ 5.14897504400000                                                        
+ 5.33956211800000                                                        
+ 5.71134960200000                                                        
+ 6.36409081100000                                                        
+ 6.50561823400000                                                        
+ 6.40818304300000                                                        
+ 6.71486257800000                                                        
+ 6.82139400200000                                                        
+ /                                                                       
+</warning>
+<message date="1/6/2018" time="0.00000000000000">
+ NEITHER OLDTRAN,OLDTRANR NOR NEWTRAN SPECIFIED                          
+ BLOCK CENTRE TRANSMISSIBILITIES TO BE CALCULATED                        
+ USING  OLDTRAN                                                          
+</message>
+<comment date="1/6/2018" time="0.00000000000000">
+ NO NON-NEIGHBOUR CONNECTIONS FOUND                                      
+</comment>
+<message date="1/6/2018" time="0.00000000000000">
+ NUMBER OF ACTIVE CELLS IS 16384                                         
+</message>
+<message date="1/6/2018" time="0.00000000000000">
+ ADDITIONAL     0.000 MEGABYTES REQUIRED FOR SIMULATION                  
+</message>
+<message date="1/6/2018" time="0.00000000000000">
+ THE MEMORY REQUIRED TO PROCESS THE SOLUTION SECTION IS                  
+      16167 KBYTES                                                       
+</message>
+<message date="1/6/2018" time="0.00000000000000">
+    62279 CHARACTER VARIABLES USED                                       
+</message>
+<error date="1/6/2018" time="0.00000000000000">
+ ERROR IN PVDO TABLE NUMBER   1                                          
+ NOT ENOUGH ROWS OF DATA ( 1) SPECIFIED                                  
+</error>
+<warning date="1/6/2018" time="0.00000000000000">
+ THE BOTTOM HOLE PRESSURE LIMIT FOR WELL P1                              
+ HAS BEEN DEFAULTED.  THE DEFAULT VALUE IS                               
+     14.7   PSIA                                                         
+</warning>
+<message date="1/6/2018" time="0.00000000000000">
+ OPENING WELL P1       AT TIME      0.00   DAYS                          
+ CONTROLLED BY LIQUID RATE                                               
+</message>
+<warning date="1/6/2018" time="0.00000000000000">
+ THE BOTTOM HOLE PRESSURE LIMIT FOR WELL I9                              
+ HAS BEEN DEFAULTED. THE DEFAULT VALUE IS  100000.   PSIA                
+</warning>
+<message date="1/6/2018" time="0.00000000000000">
+ OPENING WELL I9       AT TIME      0.00   DAYS                          
+ CONTROLLED BY WATER RATE                                                
+</message>
+<message date="1/6/2018" time="0.00000000000000">
+ RESTART FILE WRITTEN   REPORT     0                                     
+</message>
+</eclipse>
